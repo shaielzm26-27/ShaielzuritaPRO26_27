@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author alumno
  */
-public class JavaApplication7 {
+public class NewClass00 {
 
     /**
      * @param args the command line arguments
